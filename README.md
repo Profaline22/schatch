@@ -1,2 +1,2 @@
-# schatch
+# scratch
 Plataforma scratch
